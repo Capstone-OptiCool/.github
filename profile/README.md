@@ -50,7 +50,7 @@ Here are the endpoints used by OptiCool
 
 ### Model Training Performance
 <div>
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/ML-performance.png" alt="ML-performance" width="1000" align="center"
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/ML-performance.png" alt="ML-performance" width="500" align="center"
 />
 </div>
 
