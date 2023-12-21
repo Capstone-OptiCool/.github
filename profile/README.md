@@ -49,8 +49,8 @@ Here are the endpoints used by OptiCool
 ## 🚀 Our Model Performance - Face Shape Detection
 
 ### Model Training Performance
-<div>
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/ML-performance.png" alt="ML-performance" width="500" align="center"
+<div align="center">
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/ML-performance.png" alt="ML-performance" width="800px" 
 />
 </div>
 
