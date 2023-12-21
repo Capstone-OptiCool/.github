@@ -75,12 +75,13 @@ Here are the endpoints used by Opticool
 ## 📱 App Display
 <div>
   <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_221359.png" alt="Screenshot 1" width="180" />
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215823.png" alt="Screenshot 1" width="180" />
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215850.png" alt="Screenshot 1" width="180" />
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215928.png" alt="Screenshot 1" width="180" />
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215947.png" alt="Screenshot 1" width="180" />
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_221346.png" alt="Screenshot 1" width="180" />
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_220104.png" alt="Screenshot 1" width="180" />
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215823.png" alt="Screenshot 2" width="180" />
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215850.png" alt="Screenshot 3" width="180" />
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215928.png" alt="Screenshot 4" width="180" />
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215947.png" alt="Screenshot 5" width="180" />
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_222619.png" alt="Screenshot 6" width="180" />
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_221346.png" alt="Screenshot 7" width="180" />
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_220104.png" alt="Screenshot 8" width="180" />
 </div>
 
 ### 💻 Download Locally
