@@ -74,17 +74,14 @@ Here are the endpoints used by Opticool
 
 ## 📱 App Display
 <div>
-  <img src="https://github.com/wiweka24/Pedotan-MD/assets/70740913/f9adc888-2470-4d90-96cf-4351c61fdb67" alt="Screenshot 1" width="180" />
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_221359.png" alt="Screenshot 1" width="180" />
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215823.png" alt="Screenshot 1" width="180" />
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215850.png" alt="Screenshot 1" width="180" />
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215928.png" alt="Screenshot 1" width="180" />
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_215947.png" alt="Screenshot 1" width="180" />
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_221346.png" alt="Screenshot 1" width="180" />
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/Screenshot_20231221_220104.png" alt="Screenshot 1" width="180" />
 </div>
-
-## Getting Started
-### 🚀 Fast Try OptiCool
-#### Download our latest [test app]( ) <br/>
-Either way follow our app development, <br/>
-download the debug app by following these steps.
-1. Open the Action tabs
-2. Click on the latest successful workflow
-3. Scroll down and download the test_apk
 
 ### 💻 Download Locally
 Setting up project for local usage.
