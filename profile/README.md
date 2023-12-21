@@ -17,7 +17,7 @@ Introducing OptiCool, a mobile application designed to boost individuals' confid
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## 😎 The Coolers Members
-|            Member           | Student ID |        Path        |                    Role                    |                                                       Contacts                                                      |
+|            Member           | Student ID |        Path        |                    Role                    |                                                       GitHub Profile                                                      |
 | :-------------------------: | :--------: | :----------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 | Rizky Intan Nurlita  | M008BSX1236  |  Machine Learning  |Machine Learning Engineer and Project Manager |[rizkyintan](https://github.com/rizkyintan)|
 | Sayyidan Muhamad Ikhsan | M008BSY1064   |  Machine Learning  | Machine Learning Engineer |   [sayyidan-i](https://github.com/sayyidan-i) |  |
