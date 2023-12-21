@@ -4,7 +4,7 @@
 <p align="center"> Stay in Style, See with Confidence | Bangkit Product-Based Capstone Project Team CH2-PS291 </p>
 
 <p align="center">
-  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/logo-01%201.png" alt="logo" width="400" height="400">
+  <img src="https://github.com/Capstone-OptiCool/.github/blob/main/profile/logo-01%201.png" alt="logo" width="200" height="200">
 </p>
 
 ## 🚀 About OptiCool
