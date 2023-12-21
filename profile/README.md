@@ -38,13 +38,25 @@ For more information, check out each learning path to see the individual documen
 2. **Mobile Development 📱**: Android (Kotlin)
 3. **Cloud Computing ☁️**: Google Cloud Platform (GCP)
 
-## 📍 Features
+## 🪶 Features
 1. **Find Your Face Shape 📸**: OptiCool helps you figure out whether you're more of an oval, round, square, or heart. All with a quick selfie.
 2. **Personalized Glasses Reccomendations 👓**: OptiCool's magic lies in recommending frames that perfectly match your face shape, ensuring you look your absolute best.
 3. **Explore Glasses Marketplace 🛒**: OptiCool not only finds the ideal glasses for you but also directs you to the best places to grab them.
 
-## Endpoints
+## 📍 Endpoints
 Here are the endpoints used by OptiCool
+ - **'/auth/register'**
+	User registration using email/password method (saving user data in Firestore)
+- **'/auth/google'**
+	User registration using Google provider (saving user data in Firestore)
+- **'/auth/login'**
+	Creating a unique session token for the user
+- **'/auth/datauser'**
+	- POST
+		Sending detailed user data on to Firestore database
+	- GET
+		Retrieving user data from the Firestore database
+
 
 ## 🚀 Our Model Performance - Face Shape Detection
 
